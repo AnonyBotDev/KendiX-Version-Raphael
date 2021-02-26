@@ -18,12 +18,16 @@ Lancer Zarchier > Allez dans l'onglet " Télechargement " > Décompresser le fic
 
 Puis Lancer L'éditeur de code 
 
-Allez dans le fichier du SelfBot > > Cliquer surle fichier COnfig.json > Est y configurer votre codes :
+Allez dans le fichier du SelfBot > Cliquer surle fichier Config.json > Est y configurer votre codes :
 
 {
+
 	"token": "Votre_Token",
+
 	"status": "KendiX SelfBot - Anonybot Project ",
+
 	"prefixe": "Votre_Prefix"
+
 }
 
 # Installer Le SelfBOt
