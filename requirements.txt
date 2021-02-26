@@ -1,0 +1,6 @@
+discord
+json
+pyfiglet
+requests
+asyncio
+colorama
