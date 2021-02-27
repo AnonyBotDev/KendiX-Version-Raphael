@@ -1,6 +1,6 @@
 # KendiX-(-Version-Raphael-) c'est quoi ? 
 
-Une Version DU KendiX SelfBot mais avec une touche de Fun
+Une Version Du KendiX SelfBot mais avec une touche de Fun
 
 # Requis pour l'installer
 
