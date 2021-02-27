@@ -1,4 +1,4 @@
-import discord
+ import discord
 from discord.ext import commands
 import json
 import pyfiglet
@@ -30,7 +30,7 @@ async def on_ready():
 	await asyncio.sleep(2)
 	os.system("clear")
 	await asyncio.sleep(3)
-	text = pyfiglet.figlet_format(f"KendiX selfbot \n\n\n\n\n")
+	text = pyfiglet.figlet_format(f"KendiX SelfBot \n\n\n\n\n")
 	print(text)
 	print(Fore.CYAN + "AVERTISSEMENT: Sachez que nous ne sommes pas responsables de vos actions, veuiller utiliser se selfbot avec modération.")
 	print(Fore.WHITE + f"Connecté sur: {bot.user} \n Status chargé, selfbot prêt!")
@@ -76,7 +76,7 @@ async def hypesquad(ctx,house):
 async def h_er(ctx,error):
 		if isinstance(error, commands.MissingRequiredArgument):
 			await ctx.message.delete()
-			await ctx.send("Tu n'as pas implenté le nom de la hypesquad!")
+			await ctx.send("Tu n'as pas implenté le nom de la hypesquad !")
 		
 
 @bot.command()
