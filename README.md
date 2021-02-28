@@ -49,3 +49,7 @@ Config.json , Main.py , Node_Modules , Package-lock.json , Package.json , Requir
 Aprés cela taper : 
 
 $ python main.py
+
+# Commandes :
+
+ascii , customembed (titre) (desription) 
