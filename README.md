@@ -1,4 +1,4 @@
-# KendiX-(-Version-Raphael-) c'est quoi ? 
+# KendiX-(-Version-Mobile et chromebook (de Raphael5916-Raph-) c'est quoi ? 
 
 Une Version Du KendiX SelfBot mais avec une touche de Fun
 
@@ -30,7 +30,7 @@ Allez dans le fichier du SelfBot > Cliquer surle fichier Config.json > Est y con
 
 }
 
-# Installer Le SelfBOt
+# Installer Le SelfBot
 
 Démarrer Termux puis taper : 
 
