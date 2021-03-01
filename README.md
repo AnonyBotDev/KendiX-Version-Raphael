@@ -1,4 +1,4 @@
-# KendiX-(-Version-Mobile et chromebook (de Raphael5916-Raph-) c'est quoi ? 
+# KendiX-(-Version-Mobile et chromebook de Raphael5916-Raph-) c'est quoi ? 
 
 Une Version Du KendiX SelfBot mais avec une touche de Fun
 
@@ -52,4 +52,4 @@ $ python main.py
 
 # Commandes :
 
-ascii , customembed (titre) (desription) 
+ascii , customembed (titre) (desription), destroy, spam (nombre entier pour savoir combien de fois voulez vous spammer le message) (message a spam), hypesquad (entrer la hypesquad donc soit bravery, soit balance, soit brilliance).
