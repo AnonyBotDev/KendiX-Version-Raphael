@@ -31,7 +31,6 @@ async def on_ready():
 	os.system("clear")
 	await asyncio.sleep(3)
 	text = pyfiglet.figlet_format(f"KendiX SelfBot \n\n\n\n\n")
-        text = pyfiglet.figlet_format(f" Version Android \n\n\n\n")
 	print(text)
 	print(Fore.CYAN + "AVERTISSEMENT: Sachez que nous ne sommes pas responsables de vos actions, veuiller utiliser se selfbot avec modération.")
 	print(Fore.WHITE + f"Connecté sur: {bot.user} \n Status chargé, selfbot prêt!")
