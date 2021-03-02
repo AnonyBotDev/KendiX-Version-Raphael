@@ -1,4 +1,4 @@
-# KendiX-(-Version-Mobile et chromebook de Raphael5916-Raph-) c'est quoi ? 
+# KendiX-(-Version-Mobile-Raphael5916-Raph-) c'est quoi ? 
 
 Une Version Du KendiX SelfBot mais avec une touche de Fun
 
