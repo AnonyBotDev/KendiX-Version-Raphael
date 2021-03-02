@@ -1,6 +1,6 @@
-# KendiX-(-Version-Mobile-Raphael5916-Raph-) c'est quoi ? 
+# KendiX-(-Version-Mobile-) c'est quoi ? 
 
-Une Version Du KendiX SelfBot mais avec une touche de Fun
+Une Version Du KendiX SelfBot mais pour Android
 
 # Requis pour l'installer
 
