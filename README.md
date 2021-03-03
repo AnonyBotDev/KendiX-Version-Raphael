@@ -18,7 +18,7 @@ Lancer Zarchier > Allez dans l'onglet " Télechargement " > Décompresser le fic
 
 Puis Lancer L'éditeur de code 
 
-Allez dans le fichier du SelfBot > Cliquer surle fichier Config.json > Est y configurer votre codes :
+Allez dans le fichier du SelfBot > Cliquer sur le fichier Config.json > Est y configurer votre codes :
 
 {
 
@@ -53,3 +53,7 @@ $ python main.py
 # Commandes :
 
 ascii , customembed (titre) (desription), destroy, spam (nombre entier pour savoir combien de fois voulez vous spammer le message) (message a spam), hypesquad (entrer la hypesquad donc soit bravery, soit balance, soit brilliance).
+
+
+
+© Anonybot Tous droit Réserver | Crée le Mercredi 3 Mars 2021 | à : 13h18
