@@ -45,7 +45,12 @@ $ ls
 
 si vous avez ses fichier la c'est bon : 
 
-Config.json , Main.py , Node_Modules , Package-lock.json , Package.json , Requirements.txt
+config.json , main.py , Node_Modules , Package-lock.json , Package.json , requirements.txt
+
+Pour installer les packages requis pour lancer le bot faites:
+
+$ pip install -r requirements.txt
+
 
 # Le Lancer 
  
