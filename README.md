@@ -13,7 +13,7 @@ Une Version Du KendiX SelfBot mais pour Android
 
  # Aprés Cela ? 
 
-Allez sur le site : https://github.com/AnonyBotDev/KendiX-Version-Raphael- > cliquer sur " Code " > Download ZIP
+Allez sur le site : https://github.com/AnonyBotDev/KendiX-Version-Raphael > cliquer sur " Code " > Download ZIP
 
 # Aprés avoir installer 
 
