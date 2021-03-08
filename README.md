@@ -1,4 +1,4 @@
-# KendiX-(-Version-Mobile-) c'est quoi ? 
+# KendiX-(-Version-Android-) c'est quoi ? 
 
 Une Version Du KendiX SelfBot mais pour Android
 
@@ -37,7 +37,7 @@ Allez dans le fichier du SelfBot > Cliquer sur le fichier Config.json > Est y co
 
 Démarrer Termux puis taper : 
 
-$cd storage/downloads/SelfBot ( le nom de votre fichier moi c'est  " SelfBot" )
+$cd storage/emulated/0/downloads/SelfBot ( le nom de votre fichier moi c'est  " SelfBot" )
 
 puis pour inspecter taper : 
 
