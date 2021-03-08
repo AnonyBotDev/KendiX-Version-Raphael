@@ -5,8 +5,11 @@ Une Version Du KendiX SelfBot mais pour Android
 # Requis pour l'installer
 
 [- Termux](https://play.google.com/store/apps/details?id=com.termux&hl=fr&gl=US)
+
 [- Zarchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=fr&gl=US)
+
 [- Editeur de code](https://play.google.com/store/apps/details?id=com.rhmsoft.edit&hl=fr&gl=US)
+
 
  # Aprés Cela ? 
 
